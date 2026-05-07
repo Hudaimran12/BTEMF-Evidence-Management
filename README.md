@@ -52,3 +52,6 @@ https://colab.research.google.com/drive/1Au2H7Nb3Iy6wW2bxd2jHufHC8rpDlK85?usp=sh
 
 Github Link
 https://github.com/Hudaimran12/BTEMF-Evidence-Management
+
+Google Site Link:
+https://sites.google.com/view/blockchain-basedtransparentevi/home?authuser=0
