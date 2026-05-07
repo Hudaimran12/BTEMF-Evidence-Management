@@ -40,9 +40,11 @@ PhiUSIIL Phishing URL Dataset	235,795 URLs	Load testing, tamper detection	UCI Re
 Ethereum Phishing Transaction Network	13.5M edges, 1,165 phishing nodes	Chain‑of‑custody testing	Kaggle – XBlock
 Full citations and download instructions are in data/dataset_links.md.
 
-📄 Research Paper
-The final IEEE‑style research paper is available in the docs/ folder.
-Download PDF
+Links to All the Requirments:
+
+Datasets Links:
+Dataset 1: https://www.kaggle.com/datasets/vagifa/ethereum-frauddetection-dataset
+Dataset 2: https://www.kaggle.com/datasets/ndarvind/phiusiil-phishing-url-dataset
 
 Overleaf source
 https://www.overleaf.com/project/69e3838710cc5d35a73908ea
@@ -55,3 +57,5 @@ https://github.com/Hudaimran12/BTEMF-Evidence-Management
 
 Google Site Link:
 https://sites.google.com/view/blockchain-basedtransparentevi/home?authuser=0
+
+
